@@ -13,5 +13,5 @@ def divide(a, b):
 def pow(a, b):
     return a ** b
 
-def say_hello_P(a, b):
-    print('Can I help you?')
+def say_everyone():
+    print('Hi Hello!')
