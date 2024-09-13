@@ -12,3 +12,6 @@ def divide(a, b):
 
 def pow(a, b):
     return a ** b
+
+def say_hello(a, b):
+    print('Hi')
